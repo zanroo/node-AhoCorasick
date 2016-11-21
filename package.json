@@ -1,5 +1,5 @@
 {
-  "name": "node-aho-corasick",
+  "name": "@zanroo/node-aho-corasick",
   "version": "0.0.2",
   "description": "simple AhoCorasick",
   "main": "index.js",
